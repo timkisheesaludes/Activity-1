@@ -1,1 +1,1 @@
-the database name is "registratiion_db"
+the database name is "registration_db"
